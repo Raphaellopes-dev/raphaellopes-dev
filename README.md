@@ -10,23 +10,14 @@
 
 ## 🛠️ Tecnologias & Ferramentas  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![APIs](https://img.shields.io/badge/-APIs-005571?logo=api&logoColor=white&style=for-the-badge)
-![Game Scripts](https://img.shields.io/badge/-Game%20Scripts-FF4500?logo=joystick&logoColor=white&style=for-the-badge)
+![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,react,java,javascript,docker,postgres,mysql)
 
 ---
 
 ## 📊 Estatísticas  
 
-![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphaellopes-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaellopes-dev&layout=compact&theme=radical)
+![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaellopes-dev&show_icons=true&theme=radical&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaellopes-dev&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
