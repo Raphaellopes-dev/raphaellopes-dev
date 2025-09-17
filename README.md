@@ -1,9 +1,10 @@
 # 👋 Olá! Eu sou Raphael Lopes  
 
 💻 **Desenvolvedor FullStack & Criador de Softwares Personalizados**  
-🎓 Estudante de **Ciência da Computação** no IFTM  
+🎓 Estudante de **Computação** no IFTM  
 🚀 Transformo ideias em soluções completas — **sistemas web, softwares desktop, automações inteligentes e integrações de IA**  
 🎮 Especialista também em **scripts e ferramentas para jogos**, criando bots e automações avançadas  
+⚙️ Experiência sólida em **Python, .NET, C#, React, Java, JavaScript, Docker, APIs e Integração de IA** 
 💾 Experiência com **SQL e Banco de Dados**, modelagem, consultas e otimização de dados  
 
 ---
