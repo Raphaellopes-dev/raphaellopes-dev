@@ -14,13 +14,6 @@
 
 ---
 
-## 📊 Estatísticas  
-
-![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaellopes-dev&show_icons=true&theme=radical&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaellopes-dev&layout=compact&theme=radical&cache_seconds=86400)
-
----
-
 ## 📫 Contato  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/raphael-lopes-4236a226a/)
