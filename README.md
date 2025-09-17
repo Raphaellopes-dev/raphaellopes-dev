@@ -4,6 +4,7 @@
 🎓 Estudante de **Ciência da Computação** no IFTM  
 🚀 Transformo ideias em soluções completas — **sistemas web, softwares desktop, automações inteligentes e integrações de IA**  
 🎮 Especialista também em **scripts e ferramentas para jogos**, criando bots e automações avançadas  
+💾 Experiência com **SQL e Banco de Dados**, modelagem, consultas e otimização de dados  
 
 ---
 
@@ -16,6 +17,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![APIs](https://img.shields.io/badge/-APIs-005571?logo=api&logoColor=white&style=for-the-badge)
 ![Game Scripts](https://img.shields.io/badge/-Game%20Scripts-FF4500?logo=joystick&logoColor=white&style=for-the-badge)
 
