@@ -8,7 +8,7 @@ Windows + Kali Linux | Seguranca ofensiva e desenvolvimento seguro
 ### Sobre
 
 Sou desenvolvedor FullStack com foco em **Python, PHP, C#, .NET e JavaScript**.
-Atuo com **pentest e seguranca ofensiva** - nmap, sqlmap, hydra, nikto, gobuster.
+Atuo com **pentest e seguranca ofensiva** - nmap, sqlmap, hydra, nikto, gobuster, PhantomRecon.
 Uso **Windows** como sistema principal e **Kali Linux** para testes de penetracao.
 
 ---
@@ -17,12 +17,13 @@ Uso **Windows** como sistema principal e **Kali Linux** para testes de penetraca
 
 Python | PHP | C# / .NET | JavaScript | React | SQL | Linux | Git | APIs REST
 
-Pentest: nmap, sqlmap, hydra, nikto, gobuster, netcat
+Pentest: nmap, sqlmap, hydra, nikto, gobuster, PhantomRecon
 
 ---
 
 ### Projetos
 
+- [PhantomRecon Free](https://github.com/Raphaellopes-dev/phantomrecon) — **Offensive Security Toolkit nativo Windows, zero dependencias** 🚀
 - [Pentest Toolkit](https://github.com/Raphaellopes-dev/pentest-toolkit)
 - [Web Security Scanner](https://github.com/Raphaellopes-dev/web-security-scanner)
 - [Linux Environment](https://github.com/Raphaellopes-dev/linux-environment)
