@@ -23,7 +23,7 @@ Pentest: nmap, sqlmap, hydra, nikto, gobuster, PhantomRecon
 
 ### Projetos
 
-- [PhantomRecon Free](https://github.com/Raphaellopes-dev/phantomrecon) — **Offensive Security Toolkit nativo Windows, zero dependencias** 🚀
+- [PhantomRecon Free Edition](https://github.com/Raphaellopes-dev/phantomrecon) — **Offensive Security Toolkit nativo Windows, zero dependencias** 🚀
 - [Pentest Toolkit](https://github.com/Raphaellopes-dev/pentest-toolkit)
 - [Web Security Scanner](https://github.com/Raphaellopes-dev/web-security-scanner)
 - [Linux Environment](https://github.com/Raphaellopes-dev/linux-environment)
